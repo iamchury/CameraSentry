@@ -2,10 +2,7 @@ package com.chury.camerasentry.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
-val Purple80 = Color(0xFFD0BCFF)
-val PurpleGrey80 = Color(0xFFCCC2DC)
-val Pink80 = Color(0xFFEFB8C8)
-
-val Purple40 = Color(0xFF6650a4)
-val PurpleGrey40 = Color(0xFF625b71)
-val Pink40 = Color(0xFF7D5260)
+val SentryGreen = Color(0xFF1B5E4A)
+val SentryBlue = Color(0xFF255C99)
+val SentryAmber = Color(0xFF9B6500)
+val SentryBackground = Color(0xFFF7F8FA)
