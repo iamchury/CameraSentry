@@ -13,3 +13,7 @@ keystore.properties
 *.keysotore
 /release/
 app/release
+
+# Android Studio
+.idea/
+*.iml
